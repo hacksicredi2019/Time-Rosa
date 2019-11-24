@@ -1,0 +1,47 @@
+[
+  { "name": "Educação Infantil - Creche", "value": "educacao_infantil_creche" },
+  {
+    "name": "Educação Infantil - Pré-escola",
+    "value": "educacao_infantil_pre_escola"
+  },
+  {
+    "name": "Ensino Fundamental - 1º Ano",
+    "value": "ensino_fundamental_1_ano"
+  },
+  {
+    "name": "Ensino Fundamental - 2º Ano",
+    "value": "ensino_fundamental_2_ano"
+  },
+  {
+    "name": "Ensino Fundamental - 3º Ano",
+    "value": "ensino_fundamental_3_ano"
+  },
+  {
+    "name": "Ensino Fundamental - 4º Ano",
+    "value": "ensino_fundamental_4_ano"
+  },
+  {
+    "name": "Ensino Fundamental - 5º Ano",
+    "value": "ensino_fundamental_5_ano"
+  },
+  {
+    "name": "Ensino Fundamental - 6º Ano",
+    "value": "ensino_fundamental_6_ano"
+  },
+  {
+    "name": "Ensino Fundamental - 7º Ano",
+    "value": "ensino_fundamental_7_ano"
+  },
+  {
+    "name": "Ensino Fundamental - 8º Ano",
+    "value": "ensino_fundamental_8_ano"
+  },
+  {
+    "name": "Ensino Fundamental - 9º Ano",
+    "value": "ensino_fundamental_9_ano"
+  },
+  { "name": "Ensino Médio - 1ª Série", "value": "ensino_medio_1_serie" },
+  { "name": "Ensino Médio - 2ª Série", "value": "ensino_medio_2_serie" },
+  { "name": "Ensino Médio - 3ª Série", "value": "ensino_medio_3_serie" },
+  { "name": "Ensino Médio - 4ª Série", "value": "ensino_medio_4_serie" }
+]
